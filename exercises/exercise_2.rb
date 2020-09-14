@@ -9,6 +9,6 @@ puts "----------"
 
 @store1.update(name: "Magalu")
 
-puts @store1
+puts @store1.inspect
 
 
